@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'Kavivanar';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/kavivanar/v6/o-0IIpQgyXYSwhxP7_Jr5TRF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/anton/v12/1Ptgg87LROyAm3Kz-Co.ttf) format('truetype');
+}
+body {
+  background-color: #ff5252;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  color: #ffffff;
+}
+h1 {
+  color: #ffc74f;
+  font-family: 'Anton', sans-serif;
+  font-size: 75px;
+  text-align: center;
+  font-style: bold;
+  margin: 5px;
+}
+h2 {
+  color: #ffffff;
+  font-family: 'Anton', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  margin: 15px;
+}
+h4 {
+  color: #ffc74f;
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  margin: 15px;
+}
+.subheading,
+h5 {
+  color: #ffffff;
+  font-family: 'Anton', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  margin: 15px;
+}
+nav {
+  background-color: #ffc74f;
+}
+.text,
+h6 {
+  color: #ffffff;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  text-align: left;
+  margin: 15px;
+}
+a {
+  color: #ff5252;
+}
+a.sidebar {
+  color: #ffc74f;
+}
+list-group {
+  background-color: #ffc74f;
+}
+p10 {
+  color: #ffffff;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  text-align: left;
+  margin: 15px;
+}
+h10 {
+  color: hsl(41, 100%, 85%);
+  font-family: 'Anton', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 15px;
+}
+img {
+  border: 5px solid hsl(0, 55%, 39%);
+}

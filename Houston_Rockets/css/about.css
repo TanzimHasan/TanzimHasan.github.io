@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Kavivanar);
+@import url(https://fonts.googleapis.com/css?family=Anton);
+@import url(https://fonts.google.com/specimen/Fjalla+One);
+body {
+	background-color: #ff5252;
+	font-family: 'Anton', sans-serif;;
+	text-align: center;
+	color: #ffffff
+
+
+}
+h1 {
+	 color: #ffc74f;
+     font-family: 'Anton',sans-serif;;
+		 font-size: 75px;
+     text-align: center;
+     font-style: bold;
+
+		 margin:  10px;
+}
+
+h2 {
+	 color: #ffffff;
+     font-family: 'Anton',sans-serif;;
+		 font-size: 35px;
+     text-align: center;
+
+}
+
+div2{
+     color: #ffffff;
+     font-size: 100%;
+}
+p3 {
+	 color: #ffffff;
+     font-family: 'Fjalla',sans-serif;;
+		 font-size: 15px;
+     text-align: center;
+		 font-weight: bold;
+
+}
